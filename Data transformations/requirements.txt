@@ -1,0 +1,11 @@
+Install dependencies:
+
+	pip install -r requirements.txt
+
+Run the transformation script:
+
+	python src/transformations.py
+
+View the transformed data in the output folder:
+
+	output/transformed_customer_data.csv
